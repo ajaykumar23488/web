@@ -1,0 +1,87 @@
+body{
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1596524430615-b46475ddff6e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80");
+}
+
+.Home{
+    padding-right:5px ;
+    padding-left: 5px;
+    color: green;
+  text-decoration: underline;
+}
+.Contact{
+    padding: 10px;
+    color: green;
+  text-decoration: underline;
+}
+.About{
+    color: green;
+  text-decoration: underline;
+  
+}
+.ic{
+  margin-top: 20px;
+  margin-left: 20px;
+    margin-right: 100%;
+    image-resolution: 64x64;
+
+}
+.d{
+   border-style: solid;
+   border-radius: 20px;
+   border-top-left-radius: 10px;
+   border-color: white;
+   border-width: thin;
+  border-right: 20px;
+  border-left: 20px;
+  
+}
+.fm{
+   float: left;
+   margin-top: 200px;
+   margin-left: 100px;
+  
+}
+.d1{
+    float: right;
+   margin-right: 100px;
+   margin-top: 100px;
+}
+.email{
+   
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+.t2{
+    padding-bottom: 50px;
+    margin-bottom: 10px;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #92c9eb;
+    background-image: -webkit-linear-gradient(top, #92c9eb, #3498db);
+    background-image: -moz-linear-gradient(top, #92c9eb, #3498db);
+    background-image: -ms-linear-gradient(top, #92c9eb, #3498db);
+    background-image: -o-linear-gradient(top, #92c9eb, #3498db);
+    background-image: linear-gradient(to bottom, #92c9eb, #3498db);
+    text-decoration: none;
+  }
+  .i1{
+      margin-right: 10px;
+  }
